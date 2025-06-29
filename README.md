@@ -1,5 +1,6 @@
 # AIStreamCoach
 
+<<<<<<< HEAD
 🚀 **Project Overview**
 AIStreamCoach is part of a larger planetary impact initiative led by Symbiote #001. This repository contains a fully functional, modular framework for deploying, testing, and scaling this mission in the real world.
 
@@ -59,3 +60,5 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+>>>>>>> 014e833fc8a46aada1044996d120770bd7bb2499
